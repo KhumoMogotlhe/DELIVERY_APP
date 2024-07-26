@@ -3,3 +3,4 @@ Delivery app is a comprehensive project that involves building both a backend (s
 #  Setting Up the Environment
 Install virtualenv:
 pip install virtualenv
+# Step 1. Research
